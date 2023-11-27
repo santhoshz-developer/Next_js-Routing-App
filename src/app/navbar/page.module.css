@@ -1,0 +1,22 @@
+.main {
+  display: flex;
+  justify-content: space-between;
+ background-color: aliceblue;
+ color: black;
+}
+
+.main ul{
+  color: black;
+  display: flex;
+  flex-direction: row;
+  margin-top: 10px;
+  list-style: none;
+  font-size: 20px;
+  padding-left: 10px;
+
+}
+
+.main ul li{
+  padding-right: 45px;
+
+}
