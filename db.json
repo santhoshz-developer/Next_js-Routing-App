@@ -1,0 +1,64 @@
+{
+  "signUp": [
+    {
+      "name": "sandy",
+      "email": "santhoshk@gmail.com",
+      "password": "Santhosh8754@",
+      "phoneNumber": "9514691027",
+      "agree": false,
+      "id": 1
+    },
+    {
+      "name": "Santhosh",
+      "email": "santhosh@gmail.com",
+      "password": "Santhosh8754@",
+      "phoneNumber": "95146 91027",
+      "agree": false,
+      "id": 2
+    },
+    {
+      "function (variables, mutateOptions) {\n    obsRef.current.mutate(variables, mutateOptions).catch(_core_utils__WEBPACK_IMPORTED_MODULE_2__.noop);\n  }": "",
+      "id": 3
+    },
+    {
+      "function (variables, mutateOptions) {\n    obsRef.current.mutate(variables, mutateOptions).catch(_core_utils__WEBPACK_IMPORTED_MODULE_2__.noop);\n  }": "",
+      "id": 4
+    },
+    {
+      "function (variables, mutateOptions) {\n    obsRef.current.mutate(variables, mutateOptions).catch(_core_utils__WEBPACK_IMPORTED_MODULE_2__.noop);\n  }": "",
+      "id": 5
+    },
+    {
+      "function (variables, mutateOptions) {\n    obsRef.current.mutate(variables, mutateOptions).catch(_core_utils__WEBPACK_IMPORTED_MODULE_2__.noop);\n  }": "",
+      "id": 6
+    },
+    {
+      "email": "santhoshk@gmail.com",
+      "password": "Santhosh8754@",
+      "id": 7
+    },
+    {
+      "email": "santhoshk@gmail.com",
+      "password": "Santhosh8754@",
+      "id": 8
+    }
+  ],
+  "customer": [
+    {
+      "fname": "SanthoshKumar",
+      "lname": "M",
+      "email": "santhoshk@gmail.com",
+      "companyName": "GenPixels",
+      "phoneNumber": "9514691027",
+      "id": 1
+    },
+    {
+      "fname": "kalapanaa",
+      "lname": "s",
+      "email": "santhoshk@gmail.com",
+      "companyName": "Tcs",
+      "phoneNumber": "98752125626",
+      "id": 2
+    }
+  ]
+}
